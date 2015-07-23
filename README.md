@@ -6,3 +6,5 @@ When run from the same directory as the data folder, this function loads the dat
 (2) tidyAveragedData
 
 When the function call is complete, it prints the structure of the two tidy datasets using the str() function so that they are easily assessed.
+
+You can access the code book for the tidy data set created with the runAnalysis() function in this repository i either the Code_book.txt or Code_book.md files.

@@ -69,7 +69,6 @@ Column: mean-tBodyAccJerk-mean()-Z (Average of the mean values for jerk accelera
 		num	
 
 Column: mean-tBodyGyro-mean()-X (Average of the mean values for gyro signal in the x-direction, in the time domain)
-
 		num	
 
 Column: mean-tBodyGyro-mean()-Y (Average of the mean values for gyro signal in the y-direction, in the time domain)
